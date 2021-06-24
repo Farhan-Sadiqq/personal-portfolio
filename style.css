@@ -46,7 +46,7 @@ p{
 .workss{
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    width: 500;
+    width: 540;
 }
 .img{
     float: left;
@@ -69,8 +69,8 @@ p{
 }
 .contact{
     
-    width: 750px;
-    height: 200px;
+    width: 780px;
+    height: 250px;
     margin: 0 auto;
     border-radius: 10px;
     text-align: center;
